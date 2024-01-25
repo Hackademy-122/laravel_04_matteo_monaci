@@ -5,3 +5,7 @@ body {
 .navbar {
     background-color: bisque!important;
 }
+
+.input-error::placeholder {
+    color: red;
+}

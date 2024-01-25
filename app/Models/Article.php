@@ -13,7 +13,6 @@ class Article extends Model
         'name',
         'price',
         'brand',
+        'img',
     ]; //?Questi devono rappresentare i campi nel nostro database
 }
-
-
